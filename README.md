@@ -14,7 +14,7 @@ Script em **Python** para processar arquivos XML de notas fiscais, calcular cust
 
 ---
 
-## 🛠️ Tecnologias usadas
+## 🛠️ Tecnologias Usadas
 
 - Python 3
 - [pandas](https://pandas.pydata.org/)
@@ -34,7 +34,7 @@ Script em **Python** para processar arquivos XML de notas fiscais, calcular cust
 ```
 ---
 
-## ▶️ Como usar
+## ▶️ Como Usar
 
 1. Instale as dependências:
 
