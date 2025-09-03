@@ -1,6 +1,6 @@
 ## 📦 Automação para Cálculo de Custos em XML de NF-e
 
-Script em **Python** para processar arquivos XML de notas fiscais, calcular custos finais dos produtos com **DIFAL**, **ICMS ST**, **IPI** e **Descontos** e gerar planilhas de forma automatizada.
+Script em **Python** para processar arquivos XML de notas fiscais, calcular custos finais dos produtos com **DIFAL**, **ICMS ST**, **IPI** e **descontos** e gerar planilhas de forma automatizada.
 
 ---
 
