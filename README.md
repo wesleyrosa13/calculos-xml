@@ -24,12 +24,14 @@ Script em **Python** para processar arquivos XML de notas fiscais, calcular cust
 
 ## 📂 Estrutura de Pastas
 
+'''
 .
 ├── main.py
 ├── README.md
 ├── XMLsEntrada/ # Coloque aqui os XMLs para processar
 ├── XMLsProcessados/ # XMLs já processados são movidos para cá
 └── Planilhas/ # Planilhas geradas
+'''
 
 ---
 
